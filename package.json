@@ -1,0 +1,12 @@
+{
+  "name": "ai-student-planner-workspace",
+  "version": "1.0.0",
+  "description": "Full-Stack AI Student Study Planner",
+  "private": true,
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build",
+    "test:server": "cd server && npm test"
+  }
+}
